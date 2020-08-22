@@ -12,4 +12,14 @@ The dataset contains information of all 18207 players from the latest edition FI
 
 # Objectives
 
-## What is the distribution of players with position?
+* What is the distribution of players with position?
+* What is the distribution of players based on nationality?
+* What are the best player in different positions?
+* What is comparision between Left and Right Foot?
+* What is the distribution of Wage?
+* What is the average overall rating of player?
+* What is the comparision between overall rating and player?
+* Who are the top 10 player based on overall rating?
+* Who are the top 10 player based on potential?
+* What is the comparision between age and player?
+* What is the best team with formation 4-4-2?
