@@ -23,3 +23,5 @@ The dataset contains information of all 18207 players from the latest edition FI
 * Who are the top 10 player based on potential?
 * What is the comparision between age and player?
 * What is the best team with formation 4-4-2?
+# Dataset
+https://www.kaggle.com/karangadiya/fifa19
